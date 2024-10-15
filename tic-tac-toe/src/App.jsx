@@ -3,7 +3,7 @@ import { useState } from "react";
 function Title() {
   return (
     <header>
-      <h1>Tic-Tac-Toe</h1>
+      <h1>Tic-Tac-Toe With REACT</h1>
     </header>
   );
 }
